@@ -1,0 +1,119 @@
+.Height500 {
+    height: 7000px;
+
+
+}
+
+.largetext {
+    font-size: xx-large;
+}
+
+.bgcolor {
+    background-color: rgb(50, 50, 50);
+
+}
+
+.margin {
+    padding: 10px;
+    width: 300px;
+    position: center;
+
+}
+
+.fborder {
+    text-shadow: 0px 0px 10px #383535;
+}
+.fborder-white {
+    text-shadow: 0px 0px 10px white;
+}
+
+.headermasthead- {
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(8rem + 57px);
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-size: cover;
+    background-attachment: scroll;
+  }
+
+  .container-,
+.container-fluid,
+.container-xxl,
+.container-xl,
+.container-lg,
+.container-md,
+.container-sm {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.position-relative- {
+    position: relative !important;
+  }
+
+  .px-5- {
+    padding-right: 3rem !important;
+    padding-left: 3rem !important;
+  }
+  .px-lg-5- {
+    padding-right: 3rem !important;
+    padding-left: 3rem !important;
+  }
+  .row- {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-0.5 * var(--bs-gutter-x));
+    margin-left: calc(-0.5 * var(--bs-gutter-x));
+  }
+  .g-4-,
+.gx-4- {
+  --bs-gutter-x: 1.5rem;
+}
+.justify-content-center- {
+    justify-content: center !important;
+  }
+  .col-md-10- {
+    flex: 0 0 auto;
+    width: 83.33333333%;
+  }
+  .col-lg-8- {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+  }
+  .col-xl-7- {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+  }
+
+  .whtext {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+  }
+
+  .center1 {text-align: center;}
+
+  .bold {
+    font-weight: bold;
+  }
+
+  .notbold {
+    font-weight: normal;
+  }
+  .italic {
+    font-style: italic;
+  }
+  .Title1 {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
